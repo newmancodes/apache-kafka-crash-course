@@ -1,0 +1,23 @@
+{
+  "name": "apache-kafka-crash-course",
+  "version": "1.0.0",
+  "description": "Simple example following on from [Apache Kafka Crash Course](https://www.youtube.com/watch?v=R873BlNVUB4) Nov 27, 2019 by [Hussein Nasser](https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newmancodes/apache-kafka-crash-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newmancodes/apache-kafka-crash-course/issues"
+  },
+  "homepage": "https://github.com/newmancodes/apache-kafka-crash-course#readme",
+  "dependencies": {
+    "kafkajs": "^1.15.0"
+  }
+}
